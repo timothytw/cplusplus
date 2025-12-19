@@ -6,6 +6,9 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+## c++ output location
+bin/*
+
 # Local History for Visual Studio Code
 .history/
 
@@ -21,6 +24,7 @@
 *.lo
 *.o
 *.obj
+*.dSYM
 
 # Precompiled Headers
 *.gch
